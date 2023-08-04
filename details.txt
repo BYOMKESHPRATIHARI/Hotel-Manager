@@ -1,0 +1,71 @@
+Today traveling many places along with staying at fancy hotels is a common hobby among peoples. People search online for different 
+  types of comfortable hotels, so if your hotel website doesn’t exist, then you are few steps backward. 
+  This free Bootstrap hotel template will provide you enough resources to get positive attention of clients.
+
+Hotel Template
+This is a multipage template built up with the Bootstrap 4 framework and specially designed for 
+  resorts and hotel website which is absolutely stunning. It is super responsive template combined with a feasible modern feature list. 
+  To illustrate more, the tempting UI of this a Bootstrap template will surely catch your eyesight. 
+  The sticky navigation bar along with drop-down will help to know your position in the site.
+
+On the top of that, the full-screen header ensures visual appeal at a great level. Furthermore, parallax scrolling and hero header
+  provide an artistic touch to this template. You will get hotel reservation form on edge of the image header.Next, 
+  there comes about us and accommodation sections where detail information about hotel and specific room types with costs are shown.
+
+Then the gallery section is one of the most attractive sections in this whole template as it is 
+  designed with lightbox image gallery module, hover image effects. After that, there is moderate blog section which is very informative. 
+  The clients can review their opinion on the slider testimonial section. If you have any inquiry, then there is a contact form 
+  for you along with Google maps. Last but not the least, a newsletter box, social media icons, and Instagram feed are 
+  accommodated on the footer section.
+
+ 
+
+Mentionable Features
+Fully Responsive
+Multipage Template
+Hero header
+Hotel Reservation Form
+On Hover Effect
+Parallax Scrolling
+On Hover Button
+Slider Testimonial
+Blog Section
+Instagram Feed
+Newsletter Box
+Lightbox Image gallery
+Dropdown Menu
+Sticky Navigation
+Multiple Ready Elements
+Google Maps
+Contact Form
+Social Media Icons
+Descriptive Footer
+ 
+
+Files Included
+8 HTML File
+11 CSS Files
+11 Javascript Files
+7 Plugins
+Demo Images
+SCSS Files
+Documentation
+ 
+
+Credits
+Bootstrap 4
+FontAwesome
+jQuery v3.2.1
+jQueryValidation
+Steller
+imagesLoaded
+Isotope
+Linear Icons
+Nice Select
+Owl Carousel
+ 
+
+Conclusion
+This is undoubtedly an elegant HTML5 template for your hotel website. 
+  Don’t waste time on thinking. Grab this template, otherwise you can have a look at our website templates.
+  Also, we suggest you see the high-quality templates for getting a one-stop solution.
