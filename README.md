@@ -1,4 +1,7 @@
 # Hotel-Template
-#Introduction
-#Features
-#Supports
+Hii there this is a template for hotel
+management and businesses.
+# Introduction
+# Features
+# Supports
+# Conclusion
