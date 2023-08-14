@@ -9,6 +9,30 @@ A PHP dashboard is a single or multi-tab visualization tool that can be integrat
 
 That’s why in this tutorial, I will use Bootstrap for demonstrating the idea of PHP dashboards.
 
+# Overview of Admin Dashboard----
+It’s a web-based interface allowing admins or authorized users to manage and monitor different aspects of a web app. It provides an overview of key metrics, such as user traffic, sales, or website performance, and enables administrators to access and control features and settings unavailable to regular users.
+
+Some of the common functions of an admin dashboard include:
+
+Admin dashboards typically allow administrators to manage user accounts, including creating new accounts, modifying user information, and deleting accounts.
+Admin dashboards can provide tools for managing website content.
+Admin dashboards may include analytics tools to track website metrics, such as page views, unique visitors, bounce rates, and conversion rates.
+Admin dashboards may provide customization options to modify the website’s design or functionality.
+Using PHP With Bootstrap 5
+Bootstrap is a front-end framework that provides a set of pre-built CSS and JavaScript components for creating responsive and mobile-first web pages, while PHP is a server-side scripting language used for creating dynamic web pages.
+
+Bootstrap can be used with PHP to build dynamic web pages by integrating PHP code with HTML and Bootstrap’s CSS and JavaScript components. Bootstrap and PHP can be used together to create dynamic, responsive websites with great user experience.
+
+You can use PHP to handle server-side processing and database and Bootstrap to handle the presentation layer and user interface. You must include Bootstrap’s CSS and JavaScript files and use the appropriate Bootstrap classes and components in your code.
+
+Requirements for PHP and Bootstrap
+Before you start using PHP with Bootstrap, you must ensure that your system meets the following requirements:   
+
+PHP v8.0 or later
+MariaDB v 10.x
+Bootstrap v5.0 or late
+
+
 
 
 # SUMMARY
