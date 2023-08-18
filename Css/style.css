@@ -1,3 +1,103 @@
+.form-inline {
+  display: flex;
+  flex-flow: row-wrap;
+  align-items: center;
+}
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: azure;
+  border: 1px seashell;
+}
+.form-inline button {
+  padding: 10px 20px;
+  background-color: aquamarine;
+  border: 1px sienna;
+  color: #F1F1F1;
+}
+.form-inline button:hover {
+  background-color: aquamarine;
+}
+@media (max-width: 200px) {
+  .form-inline input {
+    margin: 10px 0;
+  }
+.form-inline {
+  flex-direction: column;
+  align-items: stretch;
+  }
+}
+
+.button {
+  border: none;
+  color: aliceblue;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; 
+}
+.availability_button {background-color: darkorchid;}
+.select_button       {background-color: mediumseagreen;}
+
+.card {
+  box-shadow: 0 4px 8px 0 ;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+.price {
+  color: aliceblue;
+  font-size: 22px;
+}
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: #F1F1F1;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+.card button:hover {
+  opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
 
 
 
