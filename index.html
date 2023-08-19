@@ -76,10 +76,44 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-  
+
+
+<form class="form-inline" action="#">
+  <label for="check_in">CHECK IN</label>
+<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
+  <input placeholder="Select date" type="text" id="example" class="form-control">
+  <label for="example">Try me...</label>
+  <i class="fas fa-calendar input-prefix"></i>
+</div>
+<label for="check_out">CHECK OUT</label>
+<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
+  <input placeholder="Select date" type="text" id="example" class="form-control">
+  <label for="example">Try me...</label>
+  <i class="fas fa-calendar input-prefix"></i>
+</div>
+<button class="button availability_button" >Check Availability</button>
+</form>
+
+<div class="card">
+  <img src="" alt="" style="width: 100%";
+  <h1>product name</h1>
+  <p class="price">Rs 300.00</p>
+  <p><button class="button select_button"></button></p>
+</div>
+
+
+
 
 
 
  <div class="footer">footer</div> 
+ 
+ <script>// Data Picker Initialization
+  $('.datepicker').datepicker({
+    inline: true
+  });
+</script>
+
+
 </body>
 </html>
