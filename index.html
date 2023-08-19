@@ -62,15 +62,30 @@
   <div id="carouselExample" class="carousel slide" width="200" hight="100">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/carousel_image_1.jpg" class="d-block w-40" width="200" alt="...">
+      <img src="images/carousel_image_1.jpg" class="d-block w-80" width="200" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images/carousel_image_2.jpg" class="d-block w-40" width="200" alt="...">
+      <img src="images/carousel_image_2.jpg" class="d-block w-80" width="200" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="images/carousel_image_3.jpg" class="d-block w-40" width="200" alt="...">
+      <img src="images/carousel_image_3.jpg" class="d-block w-80" width="200" alt="...">
     </div>
   </div>
+    <form class="form-inline" action="#">
+  <label for="check_in">CHECK IN</label>
+<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
+  <input placeholder="Select date" type="text" id="example" class="form-control">
+  <label for="example"></label>
+  <i class="fas fa-calendar input-prefix"></i>
+</div>
+<label for="check_out">CHECK OUT</label>
+<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
+  <input placeholder="Select date" type="text" id="example" class="form-control">
+  <label for="example"></label>
+  <i class="fas fa-calendar input-prefix"></i>
+</div>
+<button class="button availability_button" >Check Availability</button>
+</form>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -79,34 +94,9 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-    <form class="carousel_form_container" action="">
-      <h1>Login</h1>
-       <label for="email"><b>Email</b></label>
-       <input type="text" placeholder="Email" name="name" required>
-
-       <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="password" name="pwd" required>
-
-      <button type="submit" class="carousel_form_btn">Login</button>
-    </form>
-</div>
 
 
-<form class="form-inline" action="#">
-  <label for="check_in">CHECK IN</label>
-<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
-  <input placeholder="Select date" type="text" id="example" class="form-control">
-  <label for="example">Try me...</label>
-  <i class="fas fa-calendar input-prefix"></i>
-</div>
-<label for="check_out">CHECK OUT</label>
-<div id="date-picker-example" class="md-form md-outline input-with-post-icon datepicker" inline="true">
-  <input placeholder="Select date" type="text" id="example" class="form-control">
-  <label for="example">Try me...</label>
-  <i class="fas fa-calendar input-prefix"></i>
-</div>
-<button class="button availability_button" >Check Availability</button>
-</form>
+
 
 <div class="card">
   <img src="" alt="" style="width: 100%";
