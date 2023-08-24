@@ -52,8 +52,14 @@
 
 .form-inline {
   display: flex;
-  flex-flow: row-wrap;
-  align-items: center;
+  flex-flow:     row-wrap;
+  align-items:   center;
+  border:       2px solid brown;
+  border-radius: 60px;
+  padding:       5px;
+  max-width:     750px;
+  max-height:    120px;
+  margin:         auto;
 }
 .form-inline label {
   margin: 5px 10px 5px 0;
