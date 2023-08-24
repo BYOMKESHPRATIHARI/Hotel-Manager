@@ -2,6 +2,11 @@
   display: flex;
   flex-flow: row-wrap;
   align-items: center;
+  border: 1px brown;
+  border-radius: 60px;
+  max-width: 750px;
+  max-height: 120px;
+  margin: auto;
 }
 .form-inline label {
   margin: 5px 10px 5px 0;
