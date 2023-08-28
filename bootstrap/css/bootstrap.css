@@ -3955,6 +3955,7 @@ textarea.form-control-lg {
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
+  font-family: 'Roboto', sans-serif;
   text-decoration: none;
   white-space: nowrap;
 }
@@ -3987,6 +3988,7 @@ textarea.form-control-lg {
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
+  font-family: 'Roboto', sans-serif;
   line-height: 1;
   background-color: transparent;
   border: 1px solid transparent;
